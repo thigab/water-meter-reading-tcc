@@ -1,1 +1,1 @@
-# TCC-Bacharelado-em-Ci-ncias-Exatas-e-Tecnol-gicas
+# TCC_Bacharelado em Ciências Exatas e Tecnológicas
