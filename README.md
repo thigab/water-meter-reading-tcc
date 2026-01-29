@@ -1,5 +1,4 @@
-# Detecção e Reconhecimento de Dígitos em Hidrômetros com Modelos de
-Aprendizado de Máquina
+# Detecção e Reconhecimento de Dígitos em Hidrômetros com Modelos de Aprendizado de Máquina
 
 [![Status](https://img.shields.io/badge/Status-Concluído_(TCC)-success?style=for-the-badge)](https://github.com/thigab/water-meter-reading-tcc)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge)](https://www.python.org/)
