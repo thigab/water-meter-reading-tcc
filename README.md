@@ -26,8 +26,8 @@ A abordagem foi dividida em um pipeline de dois estágios para garantir maior ro
 
 | Arquivo | Descrição e Link |
 | :--- | :--- |
-| `Segmentação_detecção.ipynb` | **Etapa 1:** Realiza o pré-processamento e identifica a região do visor do hidrômetro. O output deste modelo recorta a área onde os dígitos estão presentes. <br> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/thigab/water-meter-reading-tcc/blob/main/notebooks/Segmenta%C3%A7%C3%A3o_detec%C3%A7%C3%A3o.ipynb) |
-| `modelo_de_classificacao_balanceada.ipynb` | **Etapa 2:** Classifica os dígitos numéricos recortados. **Destaque:** Utiliza técnicas de junção de datasets e balanceamento de classes para ampliar a diversidade e robustez do treinamento. <br> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/thigab/water-meter-reading-tcc/blob/main/notebooks/modelo_de_classificacao_balanceada.ipynb) |
+| `Segmentação_detecção.ipynb` | **Etapa 1:** Realiza o pré-processamento e identifica a região do visor do hidrômetro. O output deste modelo recorta a área onde os dígitos estão presentes. <br> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thigab/water-meter-reading-tcc/blob/main/notebooks/Segmenta%C3%A7%C3%A3o_detec%C3%A7%C3%A3o.ipynb) |
+| `modelo_de_classificacao_balanceada.ipynb` | **Etapa 2:** Classifica os dígitos numéricos recortados. **Destaque:** Utiliza técnicas de junção de datasets e balanceamento de classes para ampliar a diversidade e robustez do treinamento. <br> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thigab/water-meter-reading-tcc/blob/main/notebooks/modelo_de_classificacao_balanceada.ipynb) |
 
 ---
 
