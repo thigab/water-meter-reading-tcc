@@ -59,4 +59,4 @@ O projeto segue em evolução para portabilidade e aplicação em dispositivos m
 ## Autor
 Desenvolvido por **Thiago Gabriel Da Silva Oliveira**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_DO_SEU_PERFIL_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/thigab)
